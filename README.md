@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Mischa
 
-<!--
-**mbeckaya/mbeckaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend-Focused Full-Stack Developer**
 
-Here are some ideas to get you started:
+I build **maintainable backend systems and REST APIs** with **PHP/Laravel** and **Python/FastAPI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For frontend development, I work with **React and TypeScript**, primarily to build interfaces for the systems and APIs I develop.
+
+I also use **Python** for automation, scripting, and data processing.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔙 Backend
+
+* 🐘 **PHP · Laravel**
+* 🐍 **Python · FastAPI**
+* 🗄️ **MySQL · MariaDB · REST APIs**
+
+### 🎨 Frontend
+
+* ⚛️ **React · TypeScript**
+* 🔄 **Redux Toolkit · RTK Query**
+
+### 🐍 Python & Tools
+
+* ⚙️ **Automation · Scripting · Data Processing**
+* 🐳 **Docker**
+
+---
+
+## 🎯 Focus
+
+**PHP · Laravel · Python · FastAPI · REST APIs · SQL · React · TypeScript · Docker**
+
+---
+
+## 🎓 Certification
+
+[**PCAP™ – Certified Associate Python Programmer**](https://www.credly.com/badges/0cf68070-11af-4d68-9d6e-645c1e13e787/public_url)
